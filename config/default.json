@@ -1,0 +1,9 @@
+{
+    "dbConfig": {
+        "host": "mongodb+srv://admin:PhCYGkVXK49IpBio@cluster-ydxpj.mongodb.net/chilli-india?retryWrites=true&w=majority",
+        "user": "admin",
+        "password": "PhCYGkVXK49IpBio"
+    },
+    "secret": "Ch!lliIndia",
+    "allowedOrigins": "http://localhost:9000,http://localhost:3000"
+}
